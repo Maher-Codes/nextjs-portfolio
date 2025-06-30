@@ -10,7 +10,7 @@ export const metaData = {
 export const socialLinks = {
   twitter: "https://x.com/",
   github: "https://github.com/Maher-Codes/nextjs-portfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  instagram: "https://www.instagram.com/hyarewme/",
+  linkedin: "https://www.linkedin.com/in/maher-ahmad-21594b335/",
+  email: "mailto:maherahmad.mal@gmail.com",
 };
